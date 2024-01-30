@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Todo List</string>
+    <string name="welcomeUser">Add Your Task</string>
+    <string name="enterTask">Enter a Task</string>
+    <string name="addTask">Add Task</string>
+    <string name="showTask">Show Task</string>
+    <string name="userMessage">The Task You Set To Complete</string>
+    <string name="deleteTask">Delete</string>
+</resources>

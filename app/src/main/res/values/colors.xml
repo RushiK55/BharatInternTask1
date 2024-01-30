@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="moccasin">#ffe4b5</color>
+    <color name="teal">#008080</color>
+    <color name="sandyBrown">#f4a460</color>
+    <color name="darkOrchid">#9932cc</color>
+    <color name="lstBg">#B7032E40</color>
+</resources>
